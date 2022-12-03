@@ -10,6 +10,7 @@ namespace Leet_Code
     {
         static void Main(string[] args)
         {
+            ContainsDuplicateWithCondition.ContainsNearbyDuplicate(new int[] { 1, 0, 1, 1 }, 1);
         }
     }
 }
