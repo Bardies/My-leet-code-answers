@@ -48,6 +48,7 @@
     <Compile Include="HashTable\ContainsDuplicateWithCondition.cs" />
     <Compile Include="HashTable\MissingNumberInTheRange.cs" />
     <Compile Include="HashTable\Unique Number Of Ocuurence.cs" />
+    <Compile Include="HashTable\Verifying an Alien Dictionary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Spiral Matrix.cs" />
