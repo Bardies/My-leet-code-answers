@@ -11,6 +11,9 @@ namespace Leet_Code
     {
         static void Main(string[] args)
         {
+            _4Sum_II.FourSumCount(
+                new int[] {-1,-1}, new int[] { -1, 1 }, new int[] { -1, 1 }, new int[] { 1, -1 }
+                );
             Verifying_an_Alien_Dictionary.IsAlienSorted(new string[] { "apap", "app" },"abcdefghijklmnopqrstuvwxyz");
         }
     }

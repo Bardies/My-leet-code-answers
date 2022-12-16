@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HashTable\4Sum II.cs" />
     <Compile Include="HashTable\Anagram.cs" />
     <Compile Include="HashTable\Contains Duplicate.cs" />
     <Compile Include="HashTable\ContainsDuplicateWithCondition.cs" />
