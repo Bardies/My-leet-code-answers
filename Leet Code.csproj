@@ -46,6 +46,7 @@
     <Compile Include="HashTable\Anagram.cs" />
     <Compile Include="HashTable\Contains Duplicate.cs" />
     <Compile Include="HashTable\ContainsDuplicateWithCondition.cs" />
+    <Compile Include="HashTable\DuplicateNumber.cs" />
     <Compile Include="HashTable\Hand of Straights.cs" />
     <Compile Include="HashTable\MissingNumberInTheRange.cs" />
     <Compile Include="HashTable\Unique Number Of Ocuurence.cs" />
